@@ -17,6 +17,6 @@ Back-end and Front‑end development, UX design, and workflow mapping.
 
 HTML, CSS, JavaScript.
 
-## Find Out More Here
+##### Find Out More Here
 
 https://devpost.com/software/rise-i3k5fb 
